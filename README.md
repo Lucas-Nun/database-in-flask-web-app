@@ -14,4 +14,10 @@ validation is limited due to time but the database will roll back if a user is a
 
 ## safety
 
-the admin page can be accesed by typing /admin at the end making it completely insecure
+the admin page can be accesed by typing /admin at the end making it completely insecure. if i wanted to make this website fully functional this oversite would need to be fixed 
+
+## features i would like to add
+
+i would like to add the update user feature to the web app.
+
+

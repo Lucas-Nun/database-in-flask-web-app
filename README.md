@@ -4,7 +4,7 @@
 
 the purpose of this project was to see my ablity to link a webapp to a database which was quite succesfull 
 
-##how to install flask
+## how to install flask
 
 [Flask](https://flask.palletsprojects.com/en/stable/installation/)
 

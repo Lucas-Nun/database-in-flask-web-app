@@ -17,8 +17,7 @@ validation is limited due to time but the database will roll back if a user is a
 
 the admin page can be accesed by typing /admin at the end making it completely insecure. if i wanted to make this website fully functional this oversite would need to be fixed 
 
-## features i would like to add
+## features i added later on
 
-i would like to add the update user feature to the web app.
-
+i added the ability to update a user which will only update the part of the user that you want to update making it a faster and better way that deleting and readding a user
 
